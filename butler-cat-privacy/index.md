@@ -101,3 +101,19 @@ We will also keep our App Store Connect “App Privacy” information up to date
 - This app uses Motion & Fitness and Health (HealthKit) read access to display step count and activity. This data is not stored on our servers and is processed only on-device and within Apple Health.
 - This app uses AdMob and may request ATT authorization to enable personalized ads.
   [Source](https://developers.google.com/admob/ios/privacy/idfa)
+
+  ---
+
+# App-Specific Addendum: 메트로놈: 냥집사 (Metronome: Butler Cat)
+
+## 한국어
+- 본 앱은 현재 버전 기준으로 회원가입/로그인 기능이 없습니다.
+- 본 앱은 현재 버전 기준으로 인앱결제를 제공하지 않습니다.
+- 본 앱은 광고 제공을 위해 AdMob을 사용하며, 개인화 광고를 위해 ATT 권한을 요청할 수 있습니다.
+  [Source](https://developers.google.com/admob/ios/privacy/idfa)
+
+## English
+- This app does not provide sign-up/login features as of the current version.
+- This app does not provide in-app purchases as of the current version.
+- This app uses AdMob and may request ATT authorization to enable personalized ads.
+  [Source](https://developers.google.com/admob/ios/privacy/idfa)
